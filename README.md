@@ -1,5 +1,5 @@
 # 予測に重要な特徴量を見てみる：LIME (Local Interpretable Model-agnostic Explanations)
-
+[![View Example of how LIME works on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/84440-example-of-how-lime-works)
 
 Copyright (c) 2020, The MathWorks, Inc.
 
