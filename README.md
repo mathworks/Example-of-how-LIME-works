@@ -52,7 +52,7 @@ LIME は何らかの予測モデルが返す結果に対してどの変数がそ
 ## 参考資料
 
    -  [Interpretable Machine Learning, 5.7 Local Surrogate (LIME)](https://christophm.github.io/interpretable-ml-book/lime.html) 
-   -  [論文要約：“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://www.dendoron.com/boards/40) 
+   -  [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938) 
 
 
 
