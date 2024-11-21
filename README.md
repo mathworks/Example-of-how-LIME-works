@@ -159,8 +159,8 @@ MATLAB だと <img src="https://latex.codecogs.com/gif.latex?\inline&space;G"/> 
 
 
 
-   -  `'linear'` — The software fits a linear model by using [`fitrlinear`](https://www.mathworks.com/help/releases/R2020b/stats/fitrlinear.html) for regression or [`fitclinear`](https://www.mathworks.com/help/releases/R2020b/stats/fitclinear.html) for classification. 
-   -  `'tree'` — The software fits a decision tree model by using [`fitrtree`](https://www.mathworks.com/help/releases/R2020b/stats/fitrtree.html) for regression or [`fitctree`](https://www.mathworks.com/help/releases/R2020b/stats/fitctree.html) for classification. 
+   -  `'linear'` — The software fits a linear model by using [`fitrlinear`](https://www.mathworks.com/help/stats/fitrlinear.html) for regression or [`fitclinear`](https://www.mathworks.com/help/stats/fitclinear.html) for classification. 
+   -  `'tree'` — The software fits a decision tree model by using [`fitrtree`](https://www.mathworks.com/help/stats/fitrtree.html) for regression or [`fitctree`](https://www.mathworks.com/help/stats/fitctree.html) for classification. 
 
 
 
