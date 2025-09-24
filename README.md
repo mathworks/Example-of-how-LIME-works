@@ -97,7 +97,7 @@ imageLIME の内容については [Local Interpretable Model-Agnostic Explanati
 
 
 
-線形モデルの場合はモデルの係数、決定木の場合は "分割による *"リスク"* 変動" をもとに算出します（[参考](https://jp.mathworks.com/help/stats/compactclassificationtree.predictorimportance.html)）。その際の人工データは 青〇 からの距離で重み付けされて計算されます。すでにいろんなパラメータが出てきましたね。
+線形モデルの場合はモデルの係数、決定木の場合は "分割による *"リスク"* 変動" をもとに算出します（[参考](https://jp.mathworks.com/help/stats/classificationtree.predictorimportance.html)）。その際の人工データは 青〇 からの距離で重み付けされて計算されます。すでにいろんなパラメータが出てきましたね。
 
 
   
